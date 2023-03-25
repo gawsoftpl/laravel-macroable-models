@@ -1,4 +1,10 @@
+# Fork
+This is a fork from original repo javoscript/laravel-macroable-models.
+Original repo is not updated, and owner do not accept pull requests.
+
+
 # Laravel macroable models
+
 A package for adding methods to Laravel models on the fly 🕊
 
 The package offers developers an easy way of programmatically adding methods to Laravel Eloquent [models](https://laravel.com/docs/6.x/eloquent#defining-models). Behind the scenes, it makes use of Laravel's own macroable trait. For more details, check the post where I explain how I did it in my [blog](https://javoscript.com/blog/post/adding-macros-to-laravel-eloquent-models).
