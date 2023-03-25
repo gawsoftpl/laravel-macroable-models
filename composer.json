@@ -1,6 +1,6 @@
 {
     "name": "gawsoft/laravel-macroable-models",
-    "description": "A package for adding methods to Laravel models on the fly",
+    "description": "Fork from a package for adding methods to Laravel models on the fly",
     "type": "library",
     "license": "MIT",
     "authors": [
